@@ -21,7 +21,6 @@ function typeWriter(elementId, text, delay) {
 
             if (isAutoScrolling == true) {
                 // document.getElementById("myElement").scrollIntoView();
-
                 const myElement = document.getElementById("myElement");
                 myElement.scrollTop = myElement.scrollHeight;
 
