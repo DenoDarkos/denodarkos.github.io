@@ -23,6 +23,7 @@ body {
 }
 
 .film-number {
+    z-index: 5;
     border-radius: 15px 0 0 15px;
     background-color: #a5acb32c;
     color: rgb(220, 0, 0);
